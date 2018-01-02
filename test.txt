@@ -4,3 +4,4 @@ ads.trafficjunky.net
 main.exosrv.com
 banners.sexypartners.net
 ads2.contentabc.com
+trafficjunky.net
